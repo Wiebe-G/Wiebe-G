@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gehaktbal01
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: balk_anker0402 on discord
 
