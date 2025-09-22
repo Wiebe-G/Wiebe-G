@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wiebe-G
 - 👀 I’m interested in programming and gaming.
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning TypeScript, Tailwindcss and C#
 - 💞️ I’m looking to collaborate on absolutely nothing.
 - 📫 How to reach me: balk_anker0402 on discord
 
